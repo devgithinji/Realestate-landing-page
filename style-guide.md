@@ -4,7 +4,7 @@
 
 Google font
 
-``` html
+```html
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=League+Spartan:wght@400;500;600;700&display=swap"
@@ -13,7 +13,7 @@ Google font
 
 Ionicon
 
-``` html
+```html
 <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
 <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
 ```
@@ -22,7 +22,7 @@ Ionicon
 
 ## Colors
 
-``` css
+```css
 --oxford-blue_60: hsla(224, 34%, 13%, 0.6);
 --green-pigment: hsl(142, 76%, 36%);
 --oxford-blue: hsl(224, 34%, 13%);
@@ -46,7 +46,7 @@ Ionicon
 
 ## Typography
 
-``` css
+```css
 --ff-spartan: 'League Spartan', sans-serif;
 
 --fs-1: 3.6rem;
@@ -61,13 +61,13 @@ Ionicon
 
 ## Spacing
 
-``` css
+```css
 --section-padding: 35px;
 ```
 
 ## Shadow
 
-``` css
+```css
 --shadow-1: 0 1px 2px hsla(0, 0%, 0%, 0.2);
 --shadow-2: 0 10px 15px -5px var(--carcoal_20);
 --shadow-3: 0 10px 25px -3px var(--carcoal_20);
@@ -78,7 +78,7 @@ Ionicon
 
 ## Border Radius
 
-``` css
+```css
 --radius-16: 16px;
 --radius-12: 12px;
 --radius-6: 6px;
@@ -87,7 +87,7 @@ Ionicon
 
 ## Transition
 
-``` css
+```css
 --transition: 0.25s ease;
 --cubic-out: cubic-bezier(0.33, 0.85, 0.4, 0.96);
 ```
