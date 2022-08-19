@@ -1,3 +1,3 @@
 # Real Estate landing page
 
-Click here to view page
+Click [here](https://real-estate-landing-page-demo.netlify.app/) to view page
